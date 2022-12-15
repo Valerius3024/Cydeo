@@ -12,7 +12,8 @@ public class ClassKerem2 {
 
         // wertkjghd
         // askfkjsd23421
-        // mnsdjakalj
+        // DEĞİŞİK
+
 
 
     }
