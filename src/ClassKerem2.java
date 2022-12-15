@@ -6,6 +6,6 @@ public class ClassKerem2 {
         // GROUP 13 WORK2
         // group 13..
         // kerem bozdu
-        // kerem bozdu
+        // asdk
     }
 }
