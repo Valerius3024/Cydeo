@@ -4,7 +4,6 @@ public class ClassKerem2 {
         // SDET KEREM2
         // GROUP 13 WORK
         // GROUP 13 WORK2
-        // UPDATED FOR DEVELOP BRANCH
-        // DEVELOP BRANCH 2
+        // Group12313212
     }
 }
