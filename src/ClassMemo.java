@@ -6,4 +6,5 @@ public class ClassMemo {
     /// kerem yaptı
     // kerem
     // kerem
+  //
 }
