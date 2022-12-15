@@ -1,4 +1,4 @@
-public class tolga {
+public class ClassTolga {
     public static void main(String[] args) {
         System.out.println("tolga");
     }
