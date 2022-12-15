@@ -9,5 +9,8 @@ public class ClassKerem2 {
         // kerem bozdu
         //243234234
         // asdk
+        // qwerty
+
+
     }
 }
